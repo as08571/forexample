@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aNew file creates
+=======
+New file creates
+>>>>>>> 1a6de0bdf11180ebfeceb52f7bb309b664b062fd
 just to test the git fucntionality
